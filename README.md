@@ -15,7 +15,7 @@ Bot ini secara otomatis membalas pesan di channel Discord tertentu menggunakan A
 
 1. **Clone repo ini & masuk ke foldernya**
     ```bash
-    git clone <repo-url>
+    git clone (https://github.com/yjm26/discord-auto-reply)
     cd discord-auto-reply
     ```
 
