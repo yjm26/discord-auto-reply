@@ -24,7 +24,9 @@ Bot ini secara otomatis membalas pesan di channel Discord tertentu menggunakan A
     npm install
     ```
 
-3. **Buat file `.env` di root folder, isi seperti berikut:**
+3. **Edit file .env di root folder, lalu isi seperti berikut:
+
+**
     ```
     DISCORD_TOKEN=isi_token_discord_kamu
     TARGET_CHANNEL_ID=isi_channel_id
